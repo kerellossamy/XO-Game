@@ -1,1 +1,2 @@
-# XO-Game-in-c-
+# XO-Game-in-c++ -
+it is a XO game with playing with two players 
